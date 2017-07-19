@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="kakao_app_key">"Your key hash"</string>
+</resources>
